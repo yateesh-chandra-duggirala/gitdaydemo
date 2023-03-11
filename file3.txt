@@ -1,1 +1,0 @@
-This is file 3 and A part of git day 1 demo
